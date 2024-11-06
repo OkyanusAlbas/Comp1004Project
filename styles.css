@@ -1,0 +1,65 @@
+/* styles.css */
+
+/* Body Styles */
+body {
+    background-color: #f4f4f9;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Section */
+header {
+    background-color: #007BFF;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Button Styles */
+a.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+/* Table Styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table th, table td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+table th {
+    background-color: #007BFF;
+    color: white;
+}
+
+/* Blockquote Styling */
+blockquote {
+    font-size: 1.2em;
+    color: #555555;
+    border-left: 5px solid #007BFF;
+    padding-left: 20px;
+    margin: 20px 0;
+}
+
+/* List Styling */
+ul {
+    font-size: 1.1em;
+    padding-left: 20px;
+}
+
+ul li {
+    margin: 5px 0;
+}
